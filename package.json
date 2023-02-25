@@ -1,5 +1,5 @@
 {
-  "name": "foundry-module-ts",
+  "name": "ep2-helpers-import",
   "version": "1.0.0",
   "description": "A template project for FoundryVTT modules using Typescript",
   "license": "MIT",
@@ -10,10 +10,14 @@
   },
   "devDependencies": {
     "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
+    "@types/lz-string": "^1.3.34",
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-scss": "^3.0.0",
     "sass": "^1.54.8",
     "typescript": "^4.8.2",
     "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "lz-string": "^1.4.4"
   }
 }

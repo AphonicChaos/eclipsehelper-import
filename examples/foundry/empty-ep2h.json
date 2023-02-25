@@ -1,0 +1,507 @@
+{
+  "version": 4,
+  "name": "<Input Name>",
+  "aliases": "<Input Aliases>",
+  "motivations": "<Input Motivations>",
+  "languages": "<Input Languages>",
+  "gender": "<Input Gender>",
+  "active_forks": "<Input Forks>",
+  "sex": "<Input Sex>",
+  "age": 0,
+  "notes": "<Input Notes>",
+  "muse": {
+    "name": "<Muse Name>",
+    "looks": "<Muse Appearance>",
+    "cog_base": 10,
+    "int_base": 15,
+    "ref_base": 10,
+    "sav_base": 10,
+    "som_base": 10,
+    "wil_base": 10,
+    "skills": [
+      {
+        "name": "Hardware: Electronics",
+        "aptitude": "COG",
+        "rank": 20,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Infosec",
+        "aptitude": "COG",
+        "rank": 20,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Interface",
+        "aptitude": "COG",
+        "rank": 50,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Know: Accounting",
+        "aptitude": "COG",
+        "rank": 50,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Know: Psychology",
+        "aptitude": "COG",
+        "rank": 50,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Medicine: Psychosurgery",
+        "aptitude": "COG",
+        "rank": 20,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Perceive",
+        "aptitude": "INT",
+        "rank": 0,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Program",
+        "aptitude": "COG",
+        "rank": 20,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Research",
+        "aptitude": "INT",
+        "rank": 15,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      },
+      {
+        "name": "Know: ?",
+        "aptitude": "?",
+        "rank": 30,
+        "mod": 0,
+        "mandatory": false,
+        "specializations": []
+      }
+    ],
+    "initiative": 5,
+    "lucidity": 20,
+    "trauma_threshold": 4,
+    "insanity_rating": 40,
+    "stress_taken": 0,
+    "traumas_taken": 0,
+    "wound_threshold": 4,
+    "durability": 20,
+    "death_rating": 40,
+    "damage_taken": 0,
+    "wounds_taken": 0
+  },
+  "ego_traits": [],
+  "background_obj": null,
+  "background_name": "<Input Background>",
+  "career_obj": null,
+  "career_name": "<Input Career>",
+  "interest_obj": null,
+  "interest_name": "<Input Interest>",
+  "faction_obj": null,
+  "faction_name": "<Input Faction>",
+  "insight": 0,
+  "moxie": 0,
+  "vigor": 0,
+  "flex_ego": 0,
+  "flex_morph": 0,
+  "insight_left": 0,
+  "moxie_left": 0,
+  "vigor_left": 0,
+  "flex_left": 0,
+  "shortrests": 2,
+  "shortrests_left": 2,
+  "longrest_used": false,
+  "durability_base": 0,
+  "durability_mod": 0,
+  "wound_threshold_mod": 0,
+  "death_rating_mod": 0,
+  "lucidity_mod": 0,
+  "trauma_threshold_mod": 0,
+  "insanity_rating_mod": 0,
+  "damage_taken": 0,
+  "stress_taken": 0,
+  "wounds_taken": 0,
+  "traumas_taken": 0,
+  "initiative_mod": 0,
+  "morph_name": "<Input Morph Name>",
+  "morph_type": "Biomorph",
+  "morph_bio": true,
+  "morph_mp_cost": 0,
+  "morph_avail": 0,
+  "morph_size": "Normal",
+  "movement_rate": [],
+  "ware": [],
+  "morph_traits": [],
+  "morph_notes": "<Input Morph Notes>",
+  "ongoing_effects": [],
+  "mental_edits": [],
+  "last_backup_content": "<Last Backup Content>",
+  "last_backup_time": "<Last Backup Time>",
+  "last_backup_location": "<Last Backup Location>",
+  "rez_spent": 0,
+  "rez_unspent": 0,
+  "rep_real": {
+    "a_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "c_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "f_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "g_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "i_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "r_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "x_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    }
+  },
+  "rep_fake1": {
+    "name": "<Fake Name Here>",
+    "a_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "c_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "f_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "g_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "i_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "r_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "x_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    }
+  },
+  "rep_fake2": {
+    "name": "<Fake Name Here>",
+    "a_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "c_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "f_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "g_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "i_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "r_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    },
+    "x_rep": {
+      "value": 0,
+      "min_favors": 0,
+      "mod_favors": 0,
+      "maj_favors": 0
+    }
+  },
+  "cog_base": 0,
+  "int_base": 0,
+  "ref_base": 0,
+  "sav_base": 0,
+  "som_base": 0,
+  "wil_base": 0,
+  "cog_mod": 0,
+  "int_mod": 0,
+  "ref_mod": 0,
+  "sav_mod": 0,
+  "som_mod": 0,
+  "wil_mod": 0,
+  "cog_check_premod": 0,
+  "int_check_premod": 0,
+  "ref_check_premod": 0,
+  "sav_check_premod": 0,
+  "som_check_premod": 0,
+  "wil_check_premod": 0,
+  "cog_check_postmod": 0,
+  "int_check_postmod": 0,
+  "ref_check_postmod": 0,
+  "sav_check_postmod": 0,
+  "som_check_postmod": 0,
+  "wil_check_postmod": 0,
+  "skills": [
+    {
+      "name": "Athletics",
+      "aptitude": "SOM",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Deceive",
+      "aptitude": "SAV",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Fray",
+      "aptitude": "REF",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Free Fall",
+      "aptitude": "SOM",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Guns",
+      "aptitude": "REF",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Infiltrate",
+      "aptitude": "REF",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Infosec",
+      "aptitude": "COG",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Interface",
+      "aptitude": "COG",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Kinesics",
+      "aptitude": "SAV",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Melee",
+      "aptitude": "SOM",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Perceive",
+      "aptitude": "INT",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Persuade",
+      "aptitude": "SAV",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Program",
+      "aptitude": "COG",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Provoke",
+      "aptitude": "SAV",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Psi",
+      "aptitude": "WIL",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": false,
+      "specializations": []
+    },
+    {
+      "name": "Research",
+      "aptitude": "INT",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Survival",
+      "aptitude": "INT",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": true,
+      "specializations": []
+    },
+    {
+      "name": "Hardware: ?",
+      "aptitude": "COG",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": false,
+      "specializations": []
+    },
+    {
+      "name": "Medicine: ?",
+      "aptitude": "COG",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": false,
+      "specializations": []
+    },
+    {
+      "name": "Pilot: ?",
+      "aptitude": "REF",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": false,
+      "specializations": []
+    },
+    {
+      "name": "Know: ?",
+      "aptitude": "?",
+      "rank": 0,
+      "mod": 0,
+      "mandatory": false,
+      "specializations": []
+    }
+  ],
+  "substrain": "<Input Substrain>",
+  "infection_rating": 0,
+  "influence_events": [
+    {
+      "event": "Physical Damage, Take DV 1d6"
+    }
+  ],
+  "sleights": [],
+  "weapons_ranged": [],
+  "weapons_melee": [],
+  "items": [],
+  "bots": [],
+  "vehicles": [],
+  "armors": []
+}
